@@ -1,0 +1,24 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awababidwork102-cell/products.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/awababidwork102-cell/products/issues"
+  },
+  "homepage": "https://github.com/awababidwork102-cell/products#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
